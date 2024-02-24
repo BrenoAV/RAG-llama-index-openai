@@ -1,0 +1,5 @@
+# Intuitive Machines Nova-C
+
+The Intuitive Machines Nova-C, or simply Nova-C, is a class of lunar landers designed by Intuitive Machines (IM) to deliver small payloads to the surface of the Moon. Intuitive Machines was one of three service providers awarded task orders in 2019 for delivery of NASA science payloads to the Moon. The IM-1 lunar lander, named Odysseus (pronounced /əˈdɪsiəs/ ə-DISS-ee-əs), was launched on 15 February 2024, reached lunar orbit on 21 February, and landed on the lunar surface on 22 February. This marked the inaugural Nova-C landing on the Moon and the first American spacecraft to perform a soft landing on the Moon in over 50 years. It is the first spacecraft to use methalox propulsion to navigate between the Earth and the Moon.
+
+The second Nova-C lander with the IM-2 mission is scheduled to launch no earlier than the fourth quarter of 2024, and a third Nova-C lander on the IM-3 mission is scheduled for early 2025. All three landers use SpaceX's Falcon 9 launch vehicle
